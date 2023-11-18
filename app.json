@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "EzVendor",
+    "slug": "ezvendor",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/HBL_trans.png",
+    "splash": {
+      "image": "./assets/HBL_trans.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hackett.EzVendor"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/HBL_trans.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "googleServicesFile": "./google-services.json",
+      "package": "com.hackett.EzVendor"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7372e12a-96a1-4316-96a3-02f965776868"
+      }
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png",
+          "color": "#ffffff"
+        }
+      ]
+    ],
+    "owner": "nageshbethi"
+  }
+}

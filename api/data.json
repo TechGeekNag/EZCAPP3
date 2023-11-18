@@ -1,0 +1,31 @@
+{
+    "ITEMTEXT": [],
+    "HEADER": [
+        {
+            "CURRENCY": "INR",
+            "PMNTTERM": "CR03",
+            "DOC_TYPE": "ZPDM",
+            "QUOTATION": "",
+            "DOC_VALUE": 0.0000,
+            "QUOTDATE": null,
+            "DOC_CONDITION": "1000485232",
+            "DOC_NO": "4500182837",
+            "INCOTERM2": "Factory Shamirpet",
+            "INCOTERM1": "FOR",
+            "DOC_DATE": 1694025000000
+        }
+    ],
+    "ITEMS": [
+        {
+            "LINE": 10,
+            "PREVIOUS_PRICE": 900,
+            "PRESENT_PRICE": 1000,
+            "MATERIAL":6800021495,
+            "MATERIAL_DESC":"PURE LEAD_WITH REJECTED PLATES",
+            "ACTIVITY": null
+        }
+       
+    ],
+    "HEADERTEXT": [],
+    "SCHEDULES": []
+}

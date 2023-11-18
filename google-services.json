@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449137444894",
+    "project_id": "ezcapp-66555",
+    "storage_bucket": "ezcapp-66555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449137444894:android:29e64f6c8337839404460f",
+        "android_client_info": {
+          "package_name": "com.hackett.EzVendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449137444894-sr9c67s9jo38j0ut42vdrnqu5jpkgrmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZFQOgBHH79aC6jkcVAbofQ3Mcn4IyuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449137444894-sr9c67s9jo38j0ut42vdrnqu5jpkgrmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
